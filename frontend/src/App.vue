@@ -17,6 +17,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 .main__wrapper {
   padding-bottom: 30px;
 
@@ -58,5 +59,4 @@ body {
     margin: 0 auto;
   }
 }
-
 </style>
